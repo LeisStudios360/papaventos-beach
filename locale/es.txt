@@ -5,6 +5,7 @@
 ### URL
 LinkBehaviour_0866554F_53D9_F43B_41C5_2E1D310D9B73.source = https://maps.app.goo.gl/jk5yA94GzduxXMBc9
 LinkBehaviour_3BD40D99_53D9_5427_41C7_63266C0D2817.source = https://maps.app.goo.gl/jk5yA94GzduxXMBc9
+LinkBehaviour_222530F2_5ECB_4DE5_41D3_E21DD4F55803.source = https://www.instagram.com/papaventosbeach?igsh=ODQyN2R3b3F2bWZj
 LinkBehaviour_28AB5425_525A_F46F_41C2_E5892B84962B.source = https://www.instagram.com/papaventosbeach?igsh=ODQyN2R3b3F2bWZj
 
 ## Media
