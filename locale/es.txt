@@ -4,8 +4,8 @@
 
 ### URL
 LinkBehaviour_0866554F_53D9_F43B_41C5_2E1D310D9B73.source = https://maps.app.goo.gl/jk5yA94GzduxXMBc9
-LinkBehaviour_3BD40D99_53D9_5427_41C7_63266C0D2817.source = https://maps.app.goo.gl/jk5yA94GzduxXMBc9
-LinkBehaviour_222530F2_5ECB_4DE5_41D3_E21DD4F55803.source = https://www.instagram.com/papaventosbeach?igsh=ODQyN2R3b3F2bWZj
+LinkBehaviour_B0D81C93_86B7_8615_41B2_6E0A3DDA104B.source = https://maps.app.goo.gl/jk5yA94GzduxXMBc9
+LinkBehaviour_B0C59C9A_86B7_8617_41D8_727373B73548.source = https://www.instagram.com/papaventosbeach?igsh=ODQyN2R3b3F2bWZj
 LinkBehaviour_28AB5425_525A_F46F_41C2_E5892B84962B.source = https://www.instagram.com/papaventosbeach?igsh=ODQyN2R3b3F2bWZj
 
 ## Media
@@ -38,9 +38,8 @@ panorama_1CE48945_52D6_DC2F_41BE_421BA32D8DA3.label = 6
 panorama_1CE63FB8_52D9_3465_41C3_2D22F4F86619.label = 7
 panorama_1CE6C791_52D9_5427_41C6_8A17299FE505.label = 8
 panorama_1CE6DF14_52D9_742D_41D3_BCFF314583F1.label = 9
-album_3AE557E0_53B6_F3E5_41BE_E52020C17628_0.label = FOTO
 album_3AE557E0_53B6_F3E5_41BE_E52020C17628.label = FOTO
-photo_DF174932_5ECB_5C65_41B0_1393B260DBE7.label = IMG_2120
+album_3AE557E0_53B6_F3E5_41BE_E52020C17628_0.label = FOTO
 photo_CD4616DC_5249_75DD_415B_9C08C467542E.label = IMG_2121
 
 ## Skin
@@ -52,19 +51,20 @@ Label_6071ACC3_2895_7A0A_41B4_B3A0C58407C6.text = Restaurante Cesantes.
 Label_6071ACC3_2895_7A0A_41B4_B3A0C58407C6_mobile.text = Restaurante Cesantes.
 
 ### Imágen
-Image_0870C2A2_53D9_4C65_41D0_E13DCF11997C.url = skin/Image_0870C2A2_53D9_4C65_41D0_E13DCF11997C_es.jpg
-Image_27C7CA9E_5259_5C5D_41C5_F14A6FFD1E5B.url = skin/Image_27C7CA9E_5259_5C5D_41C5_F14A6FFD1E5B_es.png
 Image_2F9295D0_5249_F425_41C5_92A3B5F6B67F.url = skin/Image_2F9295D0_5249_F425_41C5_92A3B5F6B67F_es.png
+Image_2F9295D0_5249_F425_41C5_92A3B5F6B67F_mobile.url = skin/Image_2F9295D0_5249_F425_41C5_92A3B5F6B67F_mobile_es.png
 Image_354651A0_53DB_4C65_41B0_19A768996660.url = skin/Image_354651A0_53DB_4C65_41B0_19A768996660_es.jpg
+Image_354651A0_53DB_4C65_41B0_19A768996660_mobile.url = skin/Image_354651A0_53DB_4C65_41B0_19A768996660_mobile_es.jpg
 Image_7320EECB_288B_761A_41C1_E788859EA8DC.url = skin/Image_7320EECB_288B_761A_41C1_E788859EA8DC_es.png
-Image_73E099CA_2DFD_E38D_41C5_77F415465A35.url = skin/Image_73E099CA_2DFD_E38D_41C5_77F415465A35_es.png
+Image_7320EECB_288B_761A_41C1_E788859EA8DC_mobile.url = skin/Image_7320EECB_288B_761A_41C1_E788859EA8DC_mobile_es.png
 
 ### Texto Multilínea
-HTMLText_7AA54EEA_2DE7_618D_41C4_1B33A6715A49.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Paseo da Praia, 38</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Playa de Cesantes, 36693</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Pontevedra</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">RESERVAS E INFO: </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">886 162 005 ~ 655 736 427</SPAN></SPAN></DIV></div>
 HTMLText_78B7A1F8_2DED_238D_4197_F45C2A3D85E5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>CONTACTO:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">Paseo da Praia, 38</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">Playa de Cesantes, 36693</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">Pontevedra</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">RESERVAS E INFO: </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">886 162 005 ~ 655 736 427</SPAN></SPAN></DIV></div>
+HTMLText_78B7A1F8_2DED_238D_4197_F45C2A3D85E5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9px;"><B>CONTACTO:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.5px;">Paseo da Praia, 38</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.5px;">Playa de Cesantes, 36693</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.5px;">Pontevedra</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.5px;">RESERVAS E INFO: </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.5px;">886 162 005 ~ 655 736 427</SPAN></SPAN></DIV></div>
 
 ### Tooltip
 Image_7320EECB_288B_761A_41C1_E788859EA8DC.toolTip = Direccioón
+Image_7320EECB_288B_761A_41C1_E788859EA8DC_mobile.toolTip = Direccioón
 
 ## Tour
 
@@ -76,6 +76,5 @@ tour.name = Papa Ventos 1
 ## Ventana
 
 ### Cuerpo
-htmlText_DC185C9D_5EC9_745F_41A6_F7FC2F63D9B6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B><U>Datos de contacto:</U></B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Paseo da Praia, 38<BR/>Playa de Cesantes, 36693<BR/>Pontevedra</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RESERVAS E INFO: <BR/>886 162 005 ~ 655 736 427</SPAN></DIV></BODY></HTML></div>
 htmlText_D82FA0C0_5249_4C25_41D5_CF9AD71F5554.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B><U>La playa de Cesantes:</U></B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Es un entorno perfecto para pasar un rato agradable, dar un paseo, practicar un poco de Kite Surf y comer en la playa. Nuestro bar cuenta con dos terrazas, una interior y otra exterior en las que podrás disfrutar de las tardes de sol.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">La playa cuenta con una amplia zona verde en la que hay mesas de picnic, por si preferís coger la comida para llevar y disfrutarla al aire libre.</SPAN></DIV></BODY></HTML></div>
 htmlText_27221920_5249_7C65_41D0_AB5CB4B646A8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B><U>La playa de Cesantes:</U></B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Es un entorno perfecto para pasar un rato agradable, dar un paseo, practicar un poco de Kite Surf y comer en la playa. Nuestro bar cuenta con dos terrazas, una interior y otra exterior en las que podrás disfrutar de las tardes de sol.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">La playa cuenta con una amplia zona verde en la que hay mesas de picnic, por si preferís coger la comida para llevar y disfrutarla al aire libre.</SPAN></DIV></BODY></HTML></div>

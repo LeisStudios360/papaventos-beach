@@ -1,5 +1,4 @@
 {
- "start_url": "index.html?installed=true",
  "theme_color": "#EFEBE2",
  "icons": [
   {
@@ -38,7 +37,8 @@
    "sizes": "180x180"
   }
  ],
+ "background_color": "#EFEBE2",
  "display": "fullscreen",
  "name": "Papa Ventos 1",
- "background_color": "#EFEBE2"
+ "start_url": "index.html?installed=true"
 }
