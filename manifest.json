@@ -1,6 +1,6 @@
 {
+ "theme_color": "#EFEBE2",
  "background_color": "#EFEBE2",
- "name": "Papa Ventos 1",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -38,7 +38,7 @@
    "sizes": "180x180"
   }
  ],
- "display": "fullscreen",
  "start_url": "index.html?installed=true",
- "theme_color": "#EFEBE2"
+ "display": "fullscreen",
+ "name": "Papa Ventos 1"
 }
